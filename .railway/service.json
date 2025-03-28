@@ -1,0 +1,2 @@
+mkdir .railway
+echo '{"build": {"nixpacks": {"plan": {"python": {}}}}}' > .railway/service.json
