@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+twilio
+openai
+sqlite3
+python-dotenv
